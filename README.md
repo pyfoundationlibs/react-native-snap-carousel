@@ -240,3 +240,4 @@ Written by [Benoît Delmaire](https://fr.linkedin.com/in/benoitdelmaire) ([bd-ar
 [Archriss](http://www.archriss.com/).
 # react-native-snap-carousel
 # react-native-snap-carousel
+# react-native-snap-carousel
